@@ -8,5 +8,5 @@ These examples introduce html and javascript concepts we'll be using in the semi
 - [Example 2](example2): Creates an html table with javascript
 
 ## References
-
+Ara's Copy
 - https://developer.mozilla.org/en-US/docs/Learn
